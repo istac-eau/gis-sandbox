@@ -1,7 +1,7 @@
 [ ] Prelimenary map for ISTAC-START
 [ ] Machine Learning Refresher
 [ ] Geoda and qgis libraries in python 2.7 together with 
-	numpy and salpy(?)
+	numpy and pysal(?)
 [ ] Machine Learnig in GIS 
 [ ] SQL primer
 [ ] Python based GUI much like excel and visualization for easy 
